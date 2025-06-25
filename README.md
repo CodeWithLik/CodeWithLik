@@ -1,5 +1,5 @@
 # Hi there, I'm Likanos Tegene! 👋
-
+![Image](https://github.com/user-attachments/assets/2cd25748-fbd0-4e02-86fd-92e1ed495661)
 
 ## About Me 🚀
 🎓 **Fourth-Year Computer Science & Engineering Student** @ [ASTU](https://www.astu.edu.et/)  
