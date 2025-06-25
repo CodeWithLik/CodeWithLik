@@ -1,6 +1,5 @@
 # Hi there, I'm Likanos Tegene! 👋
-![Image](https://github.com/user-attachments/assets/2cd25748-fbd0-4e02-86fd-92e1ed495661)
-
+![Image](https://github.com/user-attachments/assets/dff8b2c6-c00f-4899-9317-a39c026ce44d)
 ## About Me 🚀
 🎓 **Fourth-Year Computer Science & Engineering Student** @ [ASTU](https://www.astu.edu.et/)  
 💻 **Full Stack Developer** | Passionate about scalable systems & open source  
