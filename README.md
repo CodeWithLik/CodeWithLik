@@ -2,7 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/dff8b2c6-c00f-4899-9317-a39c026ce44d)
 ## About Me 🚀
 🎓 **Fourth-Year Computer Science & Engineering Student** @ [ASTU](https://www.astu.edu.et/)  
-💻 **Full Stack Developer** | Passionate about scalable systems & open source  
+💻 **Frontend Developer** | Passionate about scalable systems & open source  
 - 🌱 Currently learning: **React Native & Mobile App Development**
 - 🔭 Working on:**[Hotel Booking Management System]** (MERN Stack)
 - 🌍 Languages: 
